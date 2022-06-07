@@ -33,7 +33,7 @@ namespace Aula7.Fiap.Ex5.Models
         //Método que retorna o tipo de pneu
         public void Pneu()
         {
-            Console.WriteLine("O pneu é de para neve");
+            Console.WriteLine("O pneu é  para neve");
         }
 
         //Método que retorna o tipo de sistema de som
