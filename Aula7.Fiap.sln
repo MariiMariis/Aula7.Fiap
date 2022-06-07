@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula7.Fiap.Ex3", "Aul7.Fiap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula7.Fiap.Ex4", "Aula7.Fiap.Ex4\Aula7.Fiap.Ex4.csproj", "{FD595D35-8B96-4E54-B3F3-B3B3389CE3ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula7.Fiap.Ex5", "Aula7.Fiap.Ex5\Aula7.Fiap.Ex5.csproj", "{3D038DE8-1A01-4B4A-A34F-1672CF4BD194}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FD595D35-8B96-4E54-B3F3-B3B3389CE3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD595D35-8B96-4E54-B3F3-B3B3389CE3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD595D35-8B96-4E54-B3F3-B3B3389CE3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D038DE8-1A01-4B4A-A34F-1672CF4BD194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D038DE8-1A01-4B4A-A34F-1672CF4BD194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D038DE8-1A01-4B4A-A34F-1672CF4BD194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D038DE8-1A01-4B4A-A34F-1672CF4BD194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
